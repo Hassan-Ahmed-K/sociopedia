@@ -4,8 +4,7 @@ SOCIOPEDA is a full-stack social media application where users can create an acc
 
 ## Demo Video 🎥
 
-[![Watch the video]([https://youtu.be/ATB6_4wc_fk](https://youtu.be/2n6BNi0gEVQ))
-
+[![Watch the video](https://img.youtube.com/vi/2n6BNi0gEVQ/0.jpg)](https://youtu.be/2n6BNi0gEVQ)
 
 ## ✨ Features  
 
