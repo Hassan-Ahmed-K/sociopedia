@@ -2,6 +2,11 @@
 
 SOCIOPEDA is a full-stack social media application where users can create an account, log in, and interact with posts. The platform includes a **home feed**, **user profiles**, and **authentication** features, providing a seamless social networking experience.  
 
+## Demo Video 🎥
+
+[![Watch the video]([https://youtu.be/ATB6_4wc_fk](https://youtu.be/2n6BNi0gEVQ))
+
+
 ## ✨ Features  
 
 ### 🔹 Client (Frontend)  
@@ -118,7 +123,7 @@ server/
 
 4. Start the backend server:  
    ```bash
-   npm start
+   node index.js
    ```
 
 ---
